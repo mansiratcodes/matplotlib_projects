@@ -2,6 +2,10 @@
 
 An animated solar system visualization built using Python and Matplotlib.
 
+## 🚀 Live Demo
+
+[Click here to watch the Solar System Animation](https://mansiratcodes.github.io/matplotlib_projects/project3-solar-system-animation/)
+
 ## ✨ Features
 
 * Animated planets orbiting a central Sun
